@@ -1,0 +1,1 @@
+This project is Python - Everything is object
